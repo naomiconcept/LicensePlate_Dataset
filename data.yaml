@@ -1,0 +1,6 @@
+train: "./numberPlate_dataset/images/train"
+val: "./numberPlate_dataset/images/test"
+
+
+nc: 1   #number of class(number_plate)
+names: ['License Plate'] #class name 
